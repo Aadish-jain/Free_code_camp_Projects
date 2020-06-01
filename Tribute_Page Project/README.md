@@ -20,4 +20,4 @@
 
 <b> User Story #9:</b> The img element should be centered within its <i>parent element</i>.
 
-<h3>See The Complete project Here with CodePen: https://codepen.io/Aadish/pen/ExPYKxy </h3>
+<h3>See the complete project here with CodePen: <a href="https://codepen.io/Aadish/pen/ExPYKxy" target=_blank>https://codepen.io/Aadish/pen/ExPYKxy</h3>
